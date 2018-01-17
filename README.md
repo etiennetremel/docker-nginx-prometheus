@@ -3,6 +3,11 @@ Alpine NGINX with Prometheus metrics
 
 > Slim Docker image with NGINX and Prometheus to serve metrics
 
+![Docker build status][badge-build-status] ![Image size][badge-image-size]
+
+[badge-build-status]: https://img.shields.io/docker/build/etiennetremel/nginx-prometheus.svg
+[badge-image-size]: https://img.shields.io/imagelayers/image-size/etiennetremel/nginx-prometheus/latest.svg
+
 ## Getting started
 
 ### Build
